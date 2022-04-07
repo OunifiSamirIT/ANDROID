@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Register">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="517dp"
+        android:layout_height="870dp"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="95dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="72dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.539"
+        app:srcCompat="@drawable/hh" />
+
+    <EditText
+        android:id="@+id/edtx1"
+        android:layout_width="281dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="16dp"
+
+        android:background="@drawable/radiuis_edittext"
+        android:inputType="textPersonName"
+        android:text="   Entrer your full name"
+        android:textColor="@color/black"
+        android:textColorHint="#121111"
+        app:circularflow_angles="15"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.63"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <EditText
+        android:id="@+id/edtx2"
+        android:layout_width="281dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="28dp"
+
+        android:background="@drawable/radiuis_edittext"
+        android:inputType="textPersonName"
+        android:text="   Entrer your adresse Mail"
+        android:textColor="@color/black"
+        android:textColorHint="#121111"
+        app:circularflow_angles="15"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.63"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtx1" />
+
+    <EditText
+        android:id="@+id/edtx3"
+        android:layout_width="281dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="32dp"
+
+        android:background="@drawable/radiuis_edittext"
+        android:inputType="textPersonName"
+        android:text="   Entrer your Password"
+        android:textColor="@color/black"
+        android:textColorHint="#121111"
+        app:circularflow_angles="15"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.63"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtx2" />
+
+    <EditText
+        android:id="@+id/edtx4"
+        android:layout_width="281dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="16dp"
+
+        android:background="@drawable/radiuis_edittext"
+        android:inputType="textPersonName"
+        android:text="   Confirm your Password"
+        android:textColor="@color/black"
+        android:textColorHint="#121111"
+        app:circularflow_angles="15"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.63"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtx3" />
+
+    <EditText
+        android:id="@+id/edtx5"
+        android:layout_width="281dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="388dp"
+        android:background="@drawable/radiuis_edittext"
+
+        android:inputType="textPersonName"
+        android:text="   Mobile user"
+        android:textColor="@color/black"
+        android:textColorHint="#121111"
+        app:circularflow_angles="15"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.63"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioButton
+        android:id="@+id/radioButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="USER"
+        android:textColor="#0B0A0A"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.411"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtx5" />
+
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Proffessionelle"
+        android:textColor="#0B0A0A"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioButton" />
+
+    <Button
+        android:id="@+id/btnregister"
+        android:layout_width="302dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/teal_700"
+        android:text="Register"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioButton2" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="234dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:text="Already have an account ? "
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnregister"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/btnsingup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/vertLIGHT"
+        android:text="Sign Up"
+        android:textColor="#0D3BC6"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.666"
+        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:layout_constraintTop_toBottomOf="@+id/btnregister"
+        app:layout_constraintVertical_bias="0.636" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:text="Welcome Onboard !"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
