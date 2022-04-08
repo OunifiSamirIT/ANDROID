@@ -4,9 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/chercher.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/gradientbackground.xml" value="0.2703125" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/radiuis_edittext.xml" value="0.2703125" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/rechercher.xml" value="0.1" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_acceuil1.xml" value="0.264" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_intro1.xml" value="0.23550724637681159" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_intro2.xml" value="0.21965579710144928" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_intro3.xml" value="0.21965579710144928" />
@@ -15,6 +23,10 @@
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_register.xml" value="0.21965579710144928" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_rest_mp1.xml" value="0.2696871628910464" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_rest_mp2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/fragment_dashboard.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/fragment_home.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/fragment_notifications.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
       </map>
     </option>
   </component>

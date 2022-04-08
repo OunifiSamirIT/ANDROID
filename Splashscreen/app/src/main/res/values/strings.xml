@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Splashscreen</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">search</string>
+    <string name="title_notifications">Notifications</string>
 
 </resources>
