@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Splashscreen">
         <activity
+            android:name=".activity_welcome"
+            android:exported="false" />
+        <activity
+            android:name=".welcome_slide4"
+            android:exported="false" />
+        <activity
+            android:name=".welcome_slide3"
+            android:exported="false" />
+        <activity
+            android:name=".welcome_slide2"
+            android:exported="false" />
+        <activity
+            android:name=".welcome_slide1"
+            android:exported="false" />
+        <activity
+            android:name=".modifierProfile"
+            android:exported="false" />
+        <activity
             android:name=".acceuil1"
             android:exported="false" />
         <activity

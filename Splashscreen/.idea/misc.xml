@@ -14,17 +14,26 @@
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/radiuis_edittext.xml" value="0.2703125" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/drawable/rechercher.xml" value="0.1" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_acceuil1.xml" value="0.264" />
-        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_fragment_view_pager.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_intro1.xml" value="0.23550724637681159" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_intro2.xml" value="0.21965579710144928" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_intro3.xml" value="0.21965579710144928" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_modifier_profile.xml" value="0.264" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_register.xml" value="0.21965579710144928" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_rest_mp1.xml" value="0.2696871628910464" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_rest_mp2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_views_slider.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_welcome.xml" value="0.1265625" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_welcome_slide1.xml" value="0.16" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_welcome_slide2.xml" value="0.1265625" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_welcome_slide3.xml" value="0.1265625" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/activity_welcome_slide4.xml" value="0.1265625" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/fragment_dashboard.xml" value="0.13020833333333334" />
-        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/fragment_home.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/fragment_first.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/layout/fragment_notifications.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/ounifi samir/AndroidStudioProjects/Splashscreen/app/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
       </map>

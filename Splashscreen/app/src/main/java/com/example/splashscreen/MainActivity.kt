@@ -6,6 +6,8 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.widget.ImageView
+import androidx.viewpager2.widget.ViewPager2
+import com.example.splashscreen.adapters.ViewPagerAdapter
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -13,17 +15,13 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        var splash = findViewById<ImageView>(R.id.img)
-        splash.animate().setDuration(5000).alpha(0f).withEndAction{
+        val viewpager2= findViewById<ViewPager2>(R.id.view_pager_2)
+        // val tablayout= findViewById<TabLayout>(R.id.tab_layout)
 
-            // splash.alpha = 1f
 
-            Handler(Looper.getMainLooper()).postDelayed({
-                val intent = Intent(this@MainActivity, intro1:: class.java  )
-                startActivity(intent)
-            },5000)
+        viewpager2.adapter= ViewPagerAdapter(this.supportFragmentManager,lifecycle)
 
-        }
+
 
 
 

@@ -5,4 +5,11 @@
     <string name="title_dashboard">search</string>
     <string name="title_notifications">Notifications</string>
 
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="third_fragment">Want to join US ?  Just Sign In to be a part of our community.</string>
+    <string name="second_fragment">How Are We ?   We are DOCTECK We are a community of doctors and patient. we are here to help you and make you feel like home</string>
+    <string name="first_fragment">Get what you need with US Welcome to DOCTECK Thank you for chossing us you will find our best doctors in our platform.</string>
+
+
 </resources>
